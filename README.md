@@ -1,6 +1,7 @@
 # JavaScript
-Learning JavaScript with 
-Vishal
+Revision of JavaScript
+	with 
+       Vishal
 
 &amp; 
 
