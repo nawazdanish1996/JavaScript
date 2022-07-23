@@ -1,7 +1,7 @@
 # JavaScript
 Revision of JavaScript
 	with 
-  Namaste Javascript
+  Javascript (CodeWithHarry)
 
 &amp; 
 
