@@ -1,1 +1,0 @@
-document.getElementById('box1').innerHTML = "Second Js";

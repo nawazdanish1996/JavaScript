@@ -1,7 +1,7 @@
 # JavaScript
 Revision of JavaScript
 	with 
-       Vishal
+  Namaste Javascript
 
 &amp; 
 
