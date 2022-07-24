@@ -1,7 +1,7 @@
 JavaScript with CodeWithHarry 1-66
 
-Date 		Videos
-24-07-22 	01-21
+Date 		Videos		Completed
+24-07-22 	01-21		01-10
 25-07-22 	22-35
 26-07-22 	36-49
 27-07-22 	50-57

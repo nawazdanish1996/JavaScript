@@ -30,4 +30,19 @@ let value = marks.indexOf(72);
 // marks.reverse(); // reverse an Array
 let marks2 = [1, 2, 3, 4, 5];
 marks = marks.concat(marks2); // add two Array in an Array
-console.log(marks);
+// console.log(marks);
+
+
+// ===== Objects =====
+
+let myObj = {
+    'first Name': "Nawaz",
+    lname: "Danish",
+    isActive: true,
+    marks: [1, 2, 3, 4, 5]
+}
+console.log(myObj);
+console.log(myObj['first Name']);
+console.log(myObj.lname);
+console.log(myObj.isActive);
+console.log(myObj.marks);
